@@ -2,8 +2,10 @@
 
 I'm Abhijath<br><br>
 
-📊 Data Analyst with 6 years of experience transforming manufacturing operations through data-driven insights . <br>
-📚 Passionate about transforming raw data into actionable insights for better business outcomes.
+📊 Engineer with diverse work experience in manufacturing industry - worked in engineering,machine development project and supply chain & procurement .<br>
+📚 In every role - my ability to work with data and come up with solutions & decisions backed with data have consistently given me an edge in navigating through the industry.<br>
+📊 Passionate in Data Analysis to transform raw data into actionable insights for better business outcomes. <br>
+
 
 
 ## 🌐 How to reach me:
